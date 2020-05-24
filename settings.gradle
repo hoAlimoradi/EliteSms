@@ -1,0 +1,6 @@
+rootProject.name='EliteSms'
+include ':presentation'
+include ':data'
+include ':domain'
+include ':common'
+include ':smsmms'
